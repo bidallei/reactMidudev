@@ -1,0 +1,12 @@
+{
+  "name": "reactmidudev",
+  "version": "1.0.0",
+  "description": "Repositorio de prácticas de curso de React de Midudev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
